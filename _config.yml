@@ -75,7 +75,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "为用户服务"
-sidebar-avatar: https://github.com/z-92jf/ImageBed/blob/main/img/img-001.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://cdn.jsdelivr.net/gh/z-92jf/ImageBed/img/img-001.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
