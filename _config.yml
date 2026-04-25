@@ -86,3 +86,9 @@ service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
+
+# Friends
+friends:
+  [
+    { title: "z-92jf加法工作室", href: "https://github.com/z-92jf" },
+  ]
