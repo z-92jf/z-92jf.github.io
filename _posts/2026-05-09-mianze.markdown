@@ -1,3 +1,15 @@
+---
+layout:       post
+title:        "免责声明"
+author:       "z-92jf 加法工作室"
+header-style: text
+catalog:      true
+tags:
+    - 信息
+    - 重要信息
+    - 协议
+    - 声明
+---
 # 免责声明
 
 安装我们的软件默认您同意此协议！！！
