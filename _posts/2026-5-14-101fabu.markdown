@@ -1,0 +1,18 @@
+---
+layout:       post
+title:        "V1.0.1(Beta)发布啦"
+author:       "z-92jf 加法工作室"
+header-style: text
+catalog:      true
+tags:
+    - 信息
+    - 重要信息
+    - 版本发布
+
+---
+
+# V1.0.1(Beta)发布啦！
+
+SERVICES FOR Windows V1.0.1的用户测试版本已于2026年5月14日发布！赶紧下载新的版本吧！本次更新内容：**修复标题问题，增加关于我们、版本信息，增加访客登录（测试中），增加vbs，增加用户名、密码检测功能，增加提示语**！我们将于2026年5月下旬将版本推送至官网！您可以在这之前前往[V1.0.1(Beta) 发布页面](https://github.com/z-92jf/SERVICES-FOR-Windows/releases/tag/Beta)下载！
+
+
